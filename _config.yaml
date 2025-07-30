@@ -2,8 +2,6 @@
 title: Systems Aging Lab
 subtitle: Weslake Univeristy, Center for Interdisciplinary Studies 
 description: We combine mathematical modelling, data analysis and quantitative experiments to uncover principles of aging, cellular stress response and tissue homeostasis. 
-baseurl: ""  # For user sites (username.github.io)
-url: "https://yifanlab.org"  # Replace with your domain
 footer: images/background.jpg
 proofer: false
 

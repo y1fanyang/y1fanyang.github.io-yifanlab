@@ -7,9 +7,8 @@
   date: '2025-07-08'
   link: https://doi.org/g9vm59
   orcid: 0000-0001-6697-0198
-  yifan-yang: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2025.06.14.659040
   title: Dynamic growth trajectories distinguish bacteriostatic and bactericidal antibiotics
     at subinhibitory concentrations
@@ -20,13 +19,12 @@
   - A. Mayo
   - A. Bren
   - U. Alon
-  publisher: Cold Spring Harbor Laboratory
+  publisher: ''
   date: '2025-06-19'
   link: https://doi.org/g9vm6b
   orcid: 0000-0001-6697-0198
-  yifan-yang: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41467-025-57807-5
   title: Compression of morbidity by interventions that steepen the survival curve
   authors:
@@ -41,9 +39,8 @@
   date: '2025-04-08'
   link: https://doi.org/g9vm6c
   orcid: 0000-0001-6697-0198
-  yifan-yang: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.10.04.560871
   title: Compression of morbidity by interventions that steepen the survival curve
   authors:
@@ -57,7 +54,6 @@
   date: '2023-10-05'
   link: https://doi.org/g9vm6d
   orcid: 0000-0001-6697-0198
-  yifan-yang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-023-37930-x
@@ -75,9 +71,8 @@
   date: '2023-04-18'
   link: https://doi.org/g9pq76
   orcid: 0000-0001-6697-0198
-  yifan-yang: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2022.10.17.512406
   title: Damage dynamics in single<i>E. coli</i>and the role of chance in the timing
     of cell death
@@ -95,7 +90,6 @@
   date: '2022-10-17'
   link: https://doi.org/gszkmr
   orcid: 0000-0001-6697-0198
-  yifan-yang: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1126/sciadv.aaw2069
@@ -112,9 +106,8 @@
   date: '2019-05-03'
   link: https://doi.org/n4z7
   orcid: 0000-0001-6697-0198
-  yifan-yang: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/bs.mim.2016.10.003
   title: Time-lapse microscopy and image analysis of Escherichia coli cells in mother
     machines
@@ -126,9 +119,8 @@
   date: '2016-01-01'
   link: https://doi.org/g9vm6f
   orcid: 0000-0001-6697-0198
-  yifan-yang: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.15252/msb.20156382
   title: A synthetic growth switch based on controlled expression of RNA polymerase
   authors:
@@ -145,7 +137,37 @@
   date: '2015-11-01'
   link: https://doi.org/f3j6sg
   orcid: 0000-0001-6697-0198
-  yifan-yang: true
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/1471-2105-8-97
+  title: 'MED: a new non-supervised gene prediction algorithm for bacterial and archaeal
+    genomes'
+  authors:
+  - Huaiqiu Zhu
+  - Gang-Qing Hu
+  - Yi-Fan Yang
+  - Jin Wang
+  - Zhen-Su She
+  publisher: BMC Bioinformatics
+  date: '2007-03-16'
+  link: https://doi.org/bpbxwd
+  orcid: 0000-0001-6697-0198
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkm799
+  title: 'ProTISA: a comprehensive resource for translation initiation site annotation
+    in prokaryotic genomes'
+  authors:
+  - G.-Q. Hu
+  - X. Zheng
+  - Y.-F. Yang
+  - P. Ortet
+  - Z.-S. She
+  - H. Zhu
+  publisher: Nucleic Acids Research
+  date: '2007-12-23'
+  link: https://doi.org/ccg46b
+  orcid: 0000-0001-6697-0198
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/376566
@@ -161,6 +183,5 @@
   date: '2018-07-24'
   link: https://doi.org/gkv25r
   orcid: 0000-0001-6697-0198
-  yifan-yang: true
   plugin: orcid.py
   file: orcid.yaml

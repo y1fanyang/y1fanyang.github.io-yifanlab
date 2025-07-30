@@ -7,9 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Dr. Yifan Yang, Ph.D.**  
+Laboratory of Systems Aging  
+Center for Interdisciplinary Studies  
+Westlake University, Hangzhou, Zhejiang, China
+
+✉️ Email: [yangyifan at westlake dot edu dot cn]
+
+Office address:  
+Center for Interdisciplinary Studies  
+Westlake University  
+No. 600 Dunyu Road, Xihu District  
+Hangzhou, Zhejiang 310030  
+China
+
 
 {%
   include button.html

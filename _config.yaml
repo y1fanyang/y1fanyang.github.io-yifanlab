@@ -1,19 +1,18 @@
 # site properties and page defaults
-title: y1fanyang
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
+title: Systems Aging Lab
+subtitle: @ Weslake Univeristy, Center for Interdisciplinary Studies 
+description: We combine mathematical modelling, data analysis and quantitative experiments to uncover principles of aging, cellular stress response and tissue homeostasis. 
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@y1fanyang.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: yangyifan at westlake.edu.cn
+  orcid: 0000-0001-6697-0198
+  google-scholar: 
   github: y1fanyang
   twitter: y1fanyang
-  youtube: y1fanyang
+  youtube: 
 
 ### jekyll settings
 

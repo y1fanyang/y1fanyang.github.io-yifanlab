@@ -1,0 +1,91 @@
+- id: doi:10.21203/rs.3.rs-6946440/v1
+  title: A damage accumulation model reveals strategies of aging across species
+  authors: []
+  publisher: ''
+  date: '2025-07-08'
+  link: https://doi.org/g9vm59
+  orcid: 0000-0001-6697-0198
+
+- id: doi:10.1101/2025.06.14.659040
+  title: Dynamic growth trajectories distinguish bacteriostatic and bactericidal antibiotics
+    at subinhibitory concentrations
+  authors:
+  - E. Vaisbourd
+  - D. S. Glass
+  - Y. Yang
+  - A. Mayo
+  - A. Bren
+  - U. Alon
+  publisher: ''
+  date: '2025-06-19'
+  link: https://doi.org/g9vm6b
+
+- id: doi:10.1038/s41467-025-57807-5
+  title: Compression of morbidity by interventions that steepen the survival curve
+  authors:
+  - Yifan Yang
+  - Avi Mayo
+  - Tomer Levy
+  - Naveh Raz
+  - Ben Shenhar
+  - Daniel F. Jarosz
+  - Uri Alon
+  publisher: Nature Communications
+  date: '2025-04-08'
+  link: https://doi.org/g9vm6c
+
+- id: doi:10.1038/s41467-023-37930-x
+  title: Damage dynamics and the role of chance in the timing of E. coli cell death
+  authors:
+  - Yifan Yang
+  - Omer Karin
+  - Avi Mayo
+  - Xiaohu Song
+  - Peipei Chen
+  - Ana L. Santos
+  - Ariel B. Lindner
+  - Uri Alon
+  publisher: Nature Communications
+  date: '2023-04-18'
+  link: https://doi.org/g9pq76
+
+- id: doi:10.1126/sciadv.aaw2069
+  title: "Temporal scaling of aging as an adaptive strategy of\n            <i>Escherichia\
+    \ coli</i>"
+  authors:
+  - Yifan Yang
+  - Ana L. Santos
+  - Luping Xu
+  - Chantal Lotton
+  - "Fran\xE7ois Taddei"
+  - Ariel B. Lindner
+  publisher: Science Advances
+  date: '2019-05-03'
+  link: https://doi.org/n4z7
+
+- id: doi:10.1016/bs.mim.2016.10.003
+  title: Time-lapse microscopy and image analysis of Escherichia coli cells in mother
+    machines
+  authors:
+  - Y. Yang
+  - X. Song
+  - A.B. Lindner
+  publisher: Methods in Microbiology
+  date: '2016-01-01'
+  link: https://doi.org/g9vm6f
+
+- id: doi:10.15252/msb.20156382
+  title: A synthetic growth switch based on controlled expression of RNA polymerase
+  authors:
+  - "J\xE9r\xF4me Izard"
+  - Cindy DC Gomez Balderas
+  - Delphine Ropers
+  - Stephan Lacour
+  - Xiaohu Song
+  - Yifan Yang
+  - Ariel B Lindner
+  - Johannes Geiselmann
+  - Hidde de Jong
+  publisher: Molecular Systems Biology
+  date: '2015-11-01'
+  link: https://doi.org/f3j6sg

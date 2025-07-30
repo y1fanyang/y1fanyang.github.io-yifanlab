@@ -1,8 +1,7 @@
 ---
 name: Yifan Yang
 image: images/team/yifan-headshot.jpg
-role: PI
-description: PI at Center for Interdiscplinary Studies @ Westlake University, affliated with school of life sciences and department of physics.
+role: Principle Investigator
 aliases:
   - Yifan
   - 杨一帆

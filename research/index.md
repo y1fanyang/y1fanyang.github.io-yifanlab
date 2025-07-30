@@ -7,14 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+Aging research have accumulated many genes and pathways that are implicated in the aging process, but much rarer are knowledge about how they work together as a system. Our research has shown that the aging processes are dynamically and mathematically similar in many organisms as distinct as bacteria and human. Having a computable, mathematical model enabled us to answer both fundamental and applied questions when it comes to aging and longevity. Our recent publications has dealth with questions such as why individuals die at different age, or how to compress age-related morbidities. 
 
 {% include section.html %}
 

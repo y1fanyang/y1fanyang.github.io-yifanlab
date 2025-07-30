@@ -12,15 +12,3 @@ We make 100% of our code and datasets available to anyone around the world who w
 {% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
-
-{% include section.html %}
-
-## Featured
-
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}

@@ -14,4 +14,18 @@ Our lab is made up of collaborative, interdisciplinary and engaged researchers. 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
+{% include section.html background="images/background.jpg" dark=true %}
+
+We collaborate with many groups around the world, in China and locally at Westlake Unversity. We are on the lookout for new perspective, new data and new technology that can teach us something new about aging.
+
+{% include section.html %}
+
+{% capture content %}
+
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
+
+{% endcapture %}
+
 {% include grid.html style="square" content=content %}
